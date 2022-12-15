@@ -1,1 +1,1 @@
-# -SmallProjectsFromReact
+# SmallProjectsFromReact
